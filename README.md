@@ -1,4 +1,4 @@
-## Hi 👋, my name is Maël
+### Hi 👋, my name is Maël
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a++jack+of+all+trade+developer;i+like+front+and+backend+development;also+i'm+learning+web3+and+AI+!+)](https://git.io/typing-svg)
@@ -27,7 +27,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
 </div>
 
-**Statistics for nerd**
+**Statistics for nerd:**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phanty78&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanty78&layout=compact)
