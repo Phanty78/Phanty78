@@ -1,6 +1,6 @@
 ### Hi 👋, my name is Maël
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Full-stack+developer+%40+Agence+NWB;PHP%2FYii2%2C+TypeScript%2FBun%2FHono%2C+Docker%2FK8s;Building+Oriloq+for+Mac+and+SPLAT+on+Hive;Exploring+agentic+AI+%26+ClaudeCode+workflows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Full-stack+developer+%40+Agence+NWB;PHP%2FYii2%2C+TypeScript%2FBun%2FHono%2C+Docker%2FK8s;Building+Oriloq+landing+and+SPLAT+on+Hive;Exploring+agentic+AI+%26+Claude+workflows)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=phanty78)](https://github.com/ryo-ma/github-profile-trophy)
 
