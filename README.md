@@ -1,34 +1,44 @@
-### Hi 👋, my name is Maël
+# Maël Donnart
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Full-stack+developer+%40+Agence+NWB;PHP%2FYii2%2C+TypeScript%2FBun%2FHono%2C+Docker%2FK8s;Building+Oriloq+landing+and+SPLAT+on+Hive;Exploring+agentic+AI+%26+Claude+workflows)](https://git.io/typing-svg)
+Développeur full-stack basé en France. Je construis des applications web, des bots et des jeux — et je documente ce qui fonctionne comme ce qui reste à finir.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=phanty78)](https://github.com/ryo-ma/github-profile-trophy)
+## Projets
 
-**Languages and Tools:**
+### [Hunger & Thirst](https://github.com/Phanty78/mod-hunger-thirst) · C++ / AzerothCore
+Module de survie pour World of Warcraft WotLK 3.3.5a : jauges de satiété et d'hydratation persistantes, modes conseil et survie, addon client optionnel.
+`1 806 lignes de C++` · `32 options de configuration` · `CI build + codestyle` · `MIT`
 
-<div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="PHP" title="PHP"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Kubernetes" title="Kubernetes"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
-	<code><img width="50" src="https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6" alt="Metamask" title="Metamask"/></code>
-</div>
+### [GameDevTycoonClone](https://github.com/Phanty78/GameDevTycoonClone) · TypeScript / Bun
+Clone de Game Dev Tycoon — projet d'apprentissage. Le domaine de simulation (notes, ventes, affinités) est isolé du framework ; 29 tests écrits avec `bun:test`. L'interface jouable reste à construire.
+`domaine pur` · `29 tests` · `auth JWT + argon2` · `PostgreSQL / Drizzle`
 
-**Statistics for nerds:**
+### [lbc-ts](https://github.com/Phanty78/lbc-ts) · TypeScript / Bun
+Client non officiel de l'API Leboncoin, publié sur npm. Portage de [etienne-hd/lbc](https://github.com/etienne-hd/lbc), typage strict, tests de payloads.
+[`@maeldonnart/lbc-ts`](https://www.npmjs.com/package/@maeldonnart/lbc-ts) · `MIT` · `5 tests`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanty78&layout=compact)
+## En ligne
+- [Otherlights](https://www.otherlights.fr/) — site officiel du jeu *Otherlights* (Soleil Artificiel), Next.js.
+- [Portfolio](https://portfolio-mael-donnart.vercel.app/) — portfolio personnel, HTML/CSS/JS, template dopefolio (GPL-3.0).
+- [Steam Game Picker](https://steam-game-picker-kappa.vercel.app/) — app Next.js qui choisit un jeu dans une bibliothèque Steam.
+
+## Aussi
+- [I Want To Be A Game Dev](https://github.com/Phanty78/i-want-to-be-a-game-dev) — prototype Godot 4.7, jouable depuis l'éditeur (pas encore de build distribué).
+
+## Stack
+**Langages** : TypeScript, JavaScript, C++, GDScript, HTML/CSS, SQL
+**Web** : React, Next.js, Node.js, Bun, Hono, Tailwind
+**Données** : PostgreSQL, SQLite, Prisma, Drizzle
+**Outils** : Git, GitHub Actions, Docker Compose
+**IA** : workflows agentiques (Claude Code), conventions documentées dans des `CLAUDE.md`
+
+## Parcours
+- 2023–2024 : formation développeur web OpenClassrooms (projets archivés sur ce profil).
+- 2024 : Hacktoberfest — contributions à HacktoberWall, formen.cc, Tree2Hope et SortViz.
+- Aujourd'hui : développement full-stack en agence ; projets personnels et open source.
+
+Une partie de mon activité (agence, clients) n'est pas publique.
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/mael-donnart/) · [Malt](https://www.malt.fr/profile/maeldonnart) · [Portfolio](https://portfolio-mael-donnart.vercel.app/)
+
+*Dernière mise à jour : octobre 2026.*
