@@ -4,25 +4,34 @@ Développeur full-stack basé en France. Je construis des applications web, des 
 
 ## Projets
 
+### [World Party Scaling](https://github.com/Phanty78/mod-world-party-scaling) · C++ / AzerothCore
+Module qui adapte la santé et les dégâts des créatures du monde ouvert à la taille du groupe engagé, sans jamais toucher aux instances. Documentation de déploiement et de compatibilité, correctif compilé contre l'API publique du core.
+`6 paliers de groupe` · `17 options` · `CI build + codestyle` · `MIT`
+
 ### [Hunger & Thirst](https://github.com/Phanty78/mod-hunger-thirst) · C++ / AzerothCore
 Module de survie pour World of Warcraft WotLK 3.3.5a : jauges de satiété et d'hydratation persistantes, modes conseil et survie, addon client optionnel.
-`1 806 lignes de C++` · `32 options de configuration` · `CI build + codestyle` · `MIT`
+`2 177 lignes de C++` · `32 options de configuration` · `CI build + codestyle` · `MIT`
+
+### [Combat AI](https://github.com/Phanty78/mod-overhaul-combat-AI) · C++ / AzerothCore
+Couche de décision de combat externe aux créatures : appel à l'aide, fuite, protection d'alliés, repositionnement et moteur de score. Opt-in et désactivée par défaut.
+`4 tactiques` · `24 options` · `CHANGELOG 1.0.0` · `MIT`
 
 ### [GameDevTycoonClone](https://github.com/Phanty78/GameDevTycoonClone) · TypeScript / Bun
 Clone de Game Dev Tycoon — projet d'apprentissage. Le domaine de simulation (notes, ventes, affinités) est isolé du framework ; 29 tests écrits avec `bun:test`. L'interface jouable reste à construire.
-`domaine pur` · `29 tests` · `auth JWT + argon2` · `PostgreSQL / Drizzle`
+`domaine pur` · `29 tests` · `auth JWT + argon2id` · `PostgreSQL / Drizzle`
 
 ### [lbc-ts](https://github.com/Phanty78/lbc-ts) · TypeScript / Bun
 Client non officiel de l'API Leboncoin, publié sur npm. Portage de [etienne-hd/lbc](https://github.com/etienne-hd/lbc), typage strict, tests de payloads.
 [`@maeldonnart/lbc-ts`](https://www.npmjs.com/package/@maeldonnart/lbc-ts) · `MIT` · `5 tests`
 
 ## En ligne
-- [Otherlights](https://www.otherlights.fr/) — site officiel du jeu *Otherlights* (Soleil Artificiel), Next.js.
-- [Portfolio](https://portfolio-mael-donnart.vercel.app/) — portfolio personnel, HTML/CSS/JS, template dopefolio (GPL-3.0).
-- [Steam Game Picker](https://steam-game-picker-kappa.vercel.app/) — app Next.js qui choisit un jeu dans une bibliothèque Steam.
+- [Otherlights](https://www.otherlights.fr/) — site officiel du jeu *Otherlights* (Soleil Artificiel), Next.js. [code](https://github.com/Phanty78/Otherlights-website)
+- [Portfolio](https://portfolio-mael-donnart.vercel.app/) — portfolio personnel, HTML/CSS/JS, template dopefolio (GPL-3.0). [code](https://github.com/Phanty78/Portfolio)
+- [Steam Game Picker](https://steam-game-picker-kappa.vercel.app/) — app Next.js qui choisit un jeu dans une bibliothèque Steam. [code](https://github.com/Phanty78/steam-game-picker)
 
 ## Aussi
 - [I Want To Be A Game Dev](https://github.com/Phanty78/i-want-to-be-a-game-dev) — prototype Godot 4.7, jouable depuis l'éditeur (pas encore de build distribué).
+- [Précepteur](https://github.com/Phanty78/skill-antoine) — skill Claude Code de tuteur socratique strict : il ne donne jamais la réponse, il guide l'apprenant jusqu'à ce qu'il la trouve.
 
 ## Stack
 **Langages** : TypeScript, JavaScript, C++, GDScript, HTML/CSS, SQL
@@ -41,4 +50,4 @@ Une partie de mon activité (agence, clients) n'est pas publique.
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/mael-donnart/) · [Malt](https://www.malt.fr/profile/maeldonnart) · [Portfolio](https://portfolio-mael-donnart.vercel.app/)
 
-*Dernière mise à jour : octobre 2026.*
+*Dernière mise à jour : novembre 2026.*
